@@ -20,7 +20,7 @@ Nitrous oxide (N2O) is a potent greenhouse gas significantly contributing to cli
 The dataset for this study was obtained from three long-term experiments:
 - W.K. Kellogg Biological Station in Michigan (BCSE\_KBS and MCSE-T2)
 - Arlington Agricultural Research Station in Wisconsin (Arlington WI)
-You can access the dataset [here](https://datadryad.org/stash/dataset/doi:10.5061/dryad.bnzs7h493).
+You can access the dataset at this link - https://datadryad.org/stash/dataset/doi:10.5061/dryad.bnzs7h493. You need to copy and paste into the url bar or it won't work. 
 The data includes daily N2O flux measurements along with various predictive variables such as soil moisture, air temperature, cumulative precipitation, and nitrogen fertilization rate.
 
 ## Methodology
